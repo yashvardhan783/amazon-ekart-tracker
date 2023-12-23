@@ -4,15 +4,12 @@
 Amazon E-kart Tracker is a web application where you can add tracker for any product that is available on amazon and it will notify you when it notices a price drop in last 365 days,
 built using MongoDB, Express, React and Nodejs.
 
-![main_page](https://github.com/MananJethwani/amazon-ekart-tracker/blob/master/Screenshot%20from%202022-12-20%2023-45-09.png)
-
 ## Features
 
 - Add products to track 
 - Get notified on your mail when there is a price drop
 - Use line chart based analytics to visulaize price history
 
-![product_page](https://github.com/MananJethwani/amazon-ekart-tracker/blob/master/Screenshot%20from%202022-12-20%2023-44-42.png)
 
 ## Tech
 
